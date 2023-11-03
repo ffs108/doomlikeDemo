@@ -1,7 +1,6 @@
-
 Doom-esque HUD Demo - ISTA 351
 ________________________________________________
-	      Francisco Figueroa				             
+Francisco Figueroa
 ________________________________________________
 This demo was created for the ISTA351 - Intro to Game Dev.
 course at the University of Arizona under the supervision of
