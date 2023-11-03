@@ -1,13 +1,13 @@
 Doom-esque HUD Demo - ISTA 351
-________________________________________________
+____________________________________________________________
 Francisco Figueroa
-________________________________________________
+____________________________________________________________
 This demo was created for the ISTA351 - Intro to Game Dev.
 course at the University of Arizona under the supervision of
 Dr. Leonard Brown for the School of Information. The demo
 aims to be an example of having a HUD and particle effects 
 in Unity; week 6 of the course. Includes two scenes.
-================================================
+____________________________________________________________
 
 * Simple life bar
 
